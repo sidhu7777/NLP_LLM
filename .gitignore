@@ -1,3 +1,6 @@
 *.pyc
 __pycache__/
 env/
+/job_descriptions.csv
+DVC_Raw_data/
+echo "DVC_Raw_data/" >> .gitignore
